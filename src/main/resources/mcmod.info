@@ -1,0 +1,19 @@
+[
+  {
+    "modid": "broadcasts",
+    "name": "Broadcasts",
+    "description": "",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "SlowBro",
+      "EugeneArch"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
