@@ -277,7 +277,7 @@ public class CommandTournament extends CommandBase {
 
             @Override
             public String getUsage() {
-                return "§bUsage: §e/pwt delay [new_delay]§b - get or set delay between messages (in minutes)";
+                return "§bUsage: §e/pwt default_prefix [new_prefix]§b - get or set default prefix";
             }
         },
         CREATE("create") {
